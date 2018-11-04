@@ -59,7 +59,7 @@ the STM32 NUCLEO-XXXXRX series appears to have the same pinout as an Arduino UNO
 Let's consult the [documentation](resources/zumo_shield_for_arduino.pdf) for the Zumo robot
 to find out which pins are used on the Arduino UNO Rev3 for various functionality. 
 We'll then cross-reference with the NUCLEO-F303RE [documentation](resources/STM32_Nucleo-64_boards.pdf)
-to ensure that the pins are available.
+to ensure that the pins are available. The punchline is that it appears all required pins are available.
 
 | Arduino Uno Rev3 Pin | NUCLEO-F303RE Pin Available | Purpose                 |
 | -------------------- | --------------------------- | ----------------------- |
